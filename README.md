@@ -30,12 +30,12 @@
 + ``` cd belalang-tempur ```
 + ``` chmod +x * ```
 + ``` bash setup.sh ```
-+ ``` bash traperx.sh ```
++ ``` bash tsec.sh ```
 
 ### Single Line Installation Command:
 
 ``` 
-pkg update && pkg upgrade && pkg install git && git clone https://github.com/MrSec-80/belalang-tempur.git/ && cd belalang-tempur && chmod +x * && bash setup.sh && bash traperx.sh 
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/MrSec-80/belalang-tempur.git/ && cd belalang-tempur && chmod +x * && bash setup.sh && bash tsec.sh 
 ```
 
 
