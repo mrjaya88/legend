@@ -18,7 +18,6 @@
     + Serveo.net
     + Ngrok.io
 
-![photo](https://github.com/MrSec-80/belalang-tempur/blob/main/img/firstlook.jpg)
 
 ## Recommendation:
 + If you will ask me for it, which one port forwarding is better, then I'll recommend you 'Ngrok.io', Because ngrok is very easy to create a realistic phishing page.
@@ -39,19 +38,5 @@
 pkg update && pkg upgrade && pkg install git && git clone https://github.com/MrSec-80/belalang-tempur.git/ && cd belalang-tempur && chmod +x * && bash setup.sh && bash traperx.sh 
 ```
 
-## Screenshots:
-
-![photo](https://github.com/MrSec-80/belalang-tempur/blob/main/img/link.jpg)
-![photo](https://github.com/MrSec-80/belalang-tempur/blob/main/img/about.jpg)
-![photo](https://github.com/MrSec-80/belalang-tempur/blob/main/img/audiofile.jpg)
-![photo](https://github.com/MrSec-80/belalang-tempur/blob/main/img/setup.jpg)
-
-### Connect With Us:
-
-+ [Instagram](https://instagram.com/0hacker_x0/)
-+ [Github](https://github.com/MrSec-80/)
-+ [YouTube](https://youtube.com/@Technolex/)
-+ [Telegram Channel](https://t.me/hackwithalex/)
-+ [Chat With Me](https://wa.me/+917488159482)
 
 ### Thank You Guys
