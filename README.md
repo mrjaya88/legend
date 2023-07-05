@@ -26,7 +26,7 @@
 + ``` pkg update ```
 + ``` pkg upgrade ```
 + ``` pkg install git ```
-+ ``` git clone https://github.com/MrSec-80/belalang-tempur.git/ ```
++ ``` git clone https://github.com/mrjaya88/legend.git/ ```
 + ``` cd belalang-tempur ```
 + ``` chmod +x * ```
 + ``` bash setup.sh ```
