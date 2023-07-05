@@ -37,4 +37,4 @@ echo -e '\033[1;92mTraper-X is launching......'
 sleep 1.1
 chmod +x *
 clear
-bash traperx.sh
+bash tsec.sh
